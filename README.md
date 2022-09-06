@@ -1,2 +1,2 @@
 # terraform
-My new repo for terraform codebase
+new repo for terraform codebase
